@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+First project is the virutals.io(Base) bot.
+
 <!--
 
 **Here are some ideas to get you started:**
